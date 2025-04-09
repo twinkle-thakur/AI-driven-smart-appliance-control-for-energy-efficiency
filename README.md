@@ -1,1 +1,1 @@
-# AI-driven-smart-appliance-control-for-energy-efficiency
+# Blockchain-Based Energy Trading Project
